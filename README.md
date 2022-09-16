@@ -15,4 +15,4 @@ Projeto construído do evento Next Level Week da Rocketseat
 ## Contato 
 :email: lais.souzafarias12@gmail.com
 
-:telefone: (19) 98108-1871
+:telephone_receiver: (19) 98108-1871
